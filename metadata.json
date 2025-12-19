@@ -1,0 +1,7 @@
+{
+  "name": "ផ្សារកសិករ - Phsar Kasekor",
+  "description": "Cambodia's simplest agricultural marketplace for farmers and traders. Direct buying and selling with AI recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
